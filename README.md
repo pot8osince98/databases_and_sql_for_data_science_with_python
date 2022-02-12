@@ -1,1 +1,5 @@
-# databases_and_sql_for_data_science_with_python
+# Databases and SQL for Data Science with Python
+
+Labs from the Coursera course "Databases and SQL for Data Science with Python"
+
+from IBM Data Science Professional Certification
